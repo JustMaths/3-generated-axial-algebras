@@ -1,4 +1,4 @@
-# 3-generated-axial-algebras
+# 3-generated axial algebras for 4-transposition groups
 
 This is magma code to acompany the paper
 
